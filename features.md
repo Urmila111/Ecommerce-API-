@@ -42,4 +42,29 @@ Order Status Tracking: Update and display the status of each order (e.g., pendin
 Order History: Display past orders for users to view details.
 Order Details: Include product details, shipping info, payment status, and total amount in each order.
 
-8. 
+8. Cart Features
+Add to Cart: Allow users to add products to their cart with specified quantities.
+View Cart: Retrieve a list of all items in the cart, including the total cost.
+Update Cart: Modify quantities or remove items from the cart.
+Calculate Cart Total: Dynamically update the cart’s total price based on items and quantities.
+Persistent Cart: Save cart items for logged-in users, even if they log out and return later.
+
+9. Wishlist Features
+Add to Wishlist: Allow users to save products for later in their wishlist.
+View Wishlist: Retrieve all items saved in a user's wishlist.
+Remove from Wishlist: Allow users to delete items from their wishlist.
+Add from Wishlist to Cart: Simplify the process of moving items from the wishlist to the cart.
+
+10. User Features
+User Registration & Login: Create an account or log in with secure authentication.
+User Profile: Update personal information like name, email, password, address, and phone.
+Address Book: Manage multiple addresses for different shipping locations.
+Password Reset: Allow users to reset their password if forgotten.
+User Role Management (Admin): Designate different roles, such as customers and admins, with distinct permissions.
+
+11. Shipping Method Features
+Shipping Options: Offer different shipping methods like Express and Standard shipping.
+Shipping Cost Calculation: Calculate costs based on the chosen shipping method, distance, or order weight.
+Shipping Time Estimates: Provide estimated delivery dates for each shipping option.
+Shipping Method Selection at Checkout: Let users choose their preferred shipping method at checkout.
+Shipping Management (Admin): Set up and manage shipping methods, rates, and regions.
